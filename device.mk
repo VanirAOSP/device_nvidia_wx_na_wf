@@ -17,5 +17,9 @@
 ## overlay
 DEVICE_PACKAGE_OVERLAYS += device/nvidia/wx_na_wf/overlay
 
+# Ramdisk
+PRODUCT_PACKAGES += \
+    init.none.rc
+
 # Inherit from shieldtablet
 $(call inherit-product, device/nvidia/shieldtablet/shieldtablet.mk)
