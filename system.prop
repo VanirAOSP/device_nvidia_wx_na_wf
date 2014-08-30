@@ -1,5 +1,2 @@
 # system.prop for wx_na_wf
 #
-
-# Wifi-only
-ro.carrier=wifi-only
