@@ -7,8 +7,8 @@ $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=wx_na_wf \
     TARGET_DEVICE=shieldtablet \
-    BUILD_FINGERPRINT="nvidia/wx_na_wf/shieldtablet:4.4.2/KOT49H/22229_440.9583:user/release-keys" \
-    PRIVATE_BUILD_DESC="wx_na_wf-user 4.4.2 KOT49H 22229_440.9583 release-keys"
+    BUILD_FINGERPRINT="nvidia/wx_na_wf/shieldtablet:5.0.1/LRX22C/29082_493.9700:user/release-keys" \
+    PRIVATE_BUILD_DESC="wx_na_wf-user 5.0.1 LRX22C 29082_493.9700 release-keys"
 
 PRODUCT_NAME := cm_wx_na_wf
 PRODUCT_DEVICE := wx_na_wf
