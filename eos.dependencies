@@ -9,7 +9,7 @@
     "remote": "github",
     "repository": "TeamEOS/device_nvidia_wx_na_wf",
     "target_path": "device/nvidia/wx_na_wf",
-    "revision": "lp5.0
+    "revision": "lp5.0"
   },
   {
     "remote": "github",
