@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "wrapped/device_nvidia_shieldtablet",
+    "repository": "TeamEOS/device_nvidia_shieldtablet",
     "target_path": "device/nvidia/shieldtablet",
     "revision": "lp5.0"
   }
   {
     "remote": "github",
-    "repository": "wrapped/device_nvidia_wx_na_wf",
+    "repository": "TeamEOS/device_nvidia_wx_na_wf",
     "target_path": "device/nvidia/wx_na_wf",
     "revision": "lp5.0
   }
